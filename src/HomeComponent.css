@@ -1,0 +1,56 @@
+/* HomeComponent.css */
+
+.home-component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(to right, #f8f9fa, #e9ecef); /* Light gradient background */
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.home-component h1 {
+    font-size: 3rem;
+    margin: 0;
+    color: #343a40; /* Darker color for the text */
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.home-component p {
+    font-size: 1.2rem;
+    color: #495057; /* Slightly lighter color for paragraphs */
+    margin-top: 0;
+}
+
+.home-component .welcome-message {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.home-component button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.home-component button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+
+
+

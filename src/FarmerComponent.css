@@ -1,0 +1,73 @@
+/* FarmerComponent.css */
+
+/* Navbar container */
+.farmer-nav {
+  background-color: #1a1a1a; /* Dark background for the navbar */
+  border-bottom: 2px solid #4CAF50; /* Green border at the bottom */
+  padding: 15px 30px; /* Increased padding for a more robust look */
+  display: flex;
+  justify-content: center; /* Center the navbar content */
+}
+
+/* Navbar menu */
+.navbar-menu {
+  list-style-type: none; /* Remove bullets from the list */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Display items inline */
+  justify-content: space-around; /* Space items evenly */
+  width: 100%;
+  max-width: 600px; /* Max width for better control */
+}
+
+/* Navbar item */
+.navbar-item {
+  flex: 1; /* Allow each item to grow equally */
+  text-align: center; /* Center text */
+}
+
+/* Navbar link */
+.navbar-link {
+  color: #b5b5b5; /* Light gray color for text */
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for both background and text color */
+  border-radius: 5px; /* Rounded corners */
+  display: block;
+}
+
+/* Hover effect for navbar link */
+.navbar-link:hover {
+  background-color: #4CAF50; /* Green background on hover */
+  color: #fff; /* White text on hover */
+}
+
+/* Active navbar link */
+.navbar-link.active {
+  background-color: #4CAF50; /* Green background for active link */
+  color: #fff; /* White text */
+}
+
+/* Adjustments for mobile screens */
+@media screen and (max-width: 600px) {
+  .farmer-nav {
+    flex-direction: column; /* Stack items vertically on small screens */
+    padding: 10px 20px; /* Adjust padding */
+  }
+
+  .navbar-menu {
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items */
+  }
+
+  .navbar-item {
+    margin-bottom: 10px; /* Space between items */
+  }
+
+  .navbar-link {
+    width: 100%; /* Full width for links */
+    text-align: center; /* Center text */
+  }
+}
