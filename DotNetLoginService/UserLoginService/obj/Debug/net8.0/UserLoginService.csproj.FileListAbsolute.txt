@@ -1,0 +1,80 @@
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\appsettings.Development.json
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\appsettings.json
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.exe
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.deps.json
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.runtimeconfig.json
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.pdb
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\BCrypt.Net-Next.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Humanizer.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\MySqlConnector.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\projectCode\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.csproj.AssemblyReference.cache
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.GeneratedMSBuildEditorConfig.editorconfig
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.AssemblyInfoInputs.cache
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.AssemblyInfo.cs
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.csproj.CoreCompileInputs.cache
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.MvcApplicationPartsAssemblyInfo.cs
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.MvcApplicationPartsAssemblyInfo.cache
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.build.json
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.development.json
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.UserLoginService.Microsoft.AspNetCore.StaticWebAssets.props
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.build.UserLoginService.props
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserLoginService.props
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserLoginService.props
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.pack.json
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\scopedcss\bundle\UserLoginService.styles.css
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLogi.7E148B6C.Up2Date
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.dll
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\refint\UserLoginService.dll
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.pdb
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.genruntimeconfig.cache
+F:\projectCode\DotNetLoginService\UserLoginService\obj\Debug\net8.0\ref\UserLoginService.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\appsettings.Development.json
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\appsettings.json
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.exe
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.deps.json
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.runtimeconfig.json
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\UserLoginService.pdb
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Humanizer.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\MySqlConnector.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Code\DotNetLoginService\UserLoginService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.csproj.AssemblyReference.cache
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.AssemblyInfoInputs.cache
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.AssemblyInfo.cs
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.csproj.CoreCompileInputs.cache
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.UserLoginService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.build.UserLoginService.props
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserLoginService.props
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserLoginService.props
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\scopedcss\bundle\UserLoginService.styles.css
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLogi.7E148B6C.Up2Date
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.dll
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\refint\UserLoginService.dll
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.pdb
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\UserLoginService.genruntimeconfig.cache
+D:\Project Code\DotNetLoginService\UserLoginService\obj\Debug\net8.0\ref\UserLoginService.dll
